@@ -15,7 +15,8 @@ Start with the portable [Laguna NVFP4 build and deployment guide](CIRUINFERENCE.
 The build is not tied to NixOS or a particular CPU. Native NVFP4 performance is
 intended for NVIDIA Blackwell GPUs.
 
-This tree preserves the upstream `llama.cpp` history and license. The original
+This repository ships a source snapshot of upstream `llama.cpp` at the pinned
+commit and preserves its license. The original
 upstream README follows.
 
 ---
